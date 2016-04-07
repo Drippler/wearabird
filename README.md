@@ -1,1 +1,18 @@
-# wearabird
+# Wearabird
+
+Put your flying skills to test and flap your arms to fly like a bird!
+
+Ever wondered what it feels like to fly like a bird? It’s time to put your flying skills to the test!
+Simply flap your arms up and down and wallah – you’re flying.
+
+To make the most out of this game, make sure to connect your Android wear (watch).
+
+![Demo](http://s24.postimg.org/6go26ass5/demo2_1.gif)
+
+## This project includes
+* Working with the wearable sensors
+* Working with Wear API
+* SurfaceView drawing and UI manipulations
+* Communicatuing between wear app and mobile app
+
+##### Play Store link - https://play.google.com/store/apps/details?id=
