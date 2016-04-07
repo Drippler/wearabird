@@ -7,7 +7,7 @@ Simply flap your arms up and down and wallah – you’re flying.
 
 To make the most out of this game, make sure to connect your Android wear (watch).
 
-![Demo](http://s24.postimg.org/6go26ass5/demo2_1.gif)
+![Demo](https://raw.githubusercontent.com/Drippler/wearabird/master/wearabird-demo.gif)
 
 ## This project includes
 * Working with the wearable sensors
