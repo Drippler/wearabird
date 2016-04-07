@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wearabird</string>
+    <string name="coins_prefix">"Score: "</string>
+    <string name="wave_to_start">To start, flap your arms like a bird</string>
+    <string name="wearable_not_found">We couldn\'t locate your Android watch</string>
+    <string name="game_over">"Congrats! You’ve collected %1$s coins.\nFlap your arms to try again"</string>
+
+</resources>
