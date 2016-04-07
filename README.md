@@ -15,4 +15,5 @@ To make the most out of this game, make sure to connect your Android wear (watch
 * SurfaceView drawing and UI manipulations
 * Communicatuing between wear app and mobile app
 
-##### Play Store link - https://play.google.com/store/apps/details?id=
+##### Play Store link - https://play.google.com/store/apps/details?id=nirhart.wearabird
+##### Youtube video - https://www.youtube.com/watch?v=HjV9D_WfNqY&feature=youtu.be
