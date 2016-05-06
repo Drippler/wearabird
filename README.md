@@ -1,4 +1,4 @@
-# Wearabird
+# Wearabird - an Android Experiments I/O 2016 challenge winner
 
 Put your flying skills to test and flap your arms to fly like a bird!
 
@@ -16,4 +16,4 @@ To make the most out of this game, make sure to connect your Android wear (watch
 * Communicatuing between wear app and mobile app
 
 ##### Play Store link - https://play.google.com/store/apps/details?id=nirhart.wearabird
-##### Youtube video - https://www.youtube.com/watch?v=HjV9D_WfNqY&feature=youtu.be
+##### Youtube video - https://youtu.be/pkC2iDaLuEI
